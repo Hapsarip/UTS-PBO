@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Kuliah\\Semester 2\\Object Oriented Programing\\Coding\\OrderFoodApp\\OrderFoodApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Kuliah\\Semester 2\\Object Oriented Programing\\Coding\\OrderFoodApp\\OrderFoodApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Kuliah\\Semester 2\\Object Oriented Programing\\Coding\\OrderFoodApp\\OrderFoodApp.csproj",
+        "projectName": "OrderFoodApp",
+        "projectPath": "D:\\Kuliah\\Semester 2\\Object Oriented Programing\\Coding\\OrderFoodApp\\OrderFoodApp.csproj",
+        "packagesPath": "C:\\Users\\A S U S\\.nuget\\packages\\",
+        "outputPath": "D:\\Kuliah\\Semester 2\\Object Oriented Programing\\Coding\\OrderFoodApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A S U S\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
